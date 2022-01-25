@@ -123,6 +123,7 @@ body {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
+    z-index: 10;
 }
 .textoimg {
     background-color: black;
